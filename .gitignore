@@ -1,0 +1,11 @@
+
+flaskblog/*/*.pyc
+include
+lib
+scripts
+__pycache__/**
+tcl
+flaskblog/__pycache__/*.pyc
+flaskblog/*/__pycache__/*.pyc
+flaskblog/*.pyc
+*.pyc
