@@ -1,4 +1,4 @@
-# A Simple Flask Application to learn python flask 
-# All basic task which you need in simple website
+## Blog Application in FLASK with basic features
+
 
 
